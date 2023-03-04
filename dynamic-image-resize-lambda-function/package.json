@@ -1,0 +1,19 @@
+{
+  "name": "image-resize",
+  "version": "1.0.0",
+  "description": "  Resize pictures on the fly according to dimensions passed by the query parameter",
+  "main": "index.js",
+  "author": "AWS",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "aws-sdk": "^2.889.0",
+    "sharp": "^0.31.3"
+  },
+  "scripts": {
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^10.0.0",
+    "nyc": "^15.1.0"
+  }
+}
